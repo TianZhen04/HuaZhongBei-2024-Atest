@@ -1,7 +1,6 @@
 % ----------------------------------------------------------------------- %
 % Function MOPSO performs a Multi-Objective Particle Swarm Optimization   %
 % over continous functions.                                               %
-%  please follow wechat Swarm-opti                                        %
 %   Input parameters:                                                     %
 %       - params:   Struct that contains the customized parameters.       %
 %           * params.Np:        Number of particles.                      %
